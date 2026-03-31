@@ -2,20 +2,17 @@ Please place the item with the correct definition.
 
 Definitions
 
-1. A list of all features, enhancements, and fixes to be made to the product in future releases
+1. A list of all features, enhancements, and fixes to be made to the product in future releases.
 
 2. A repetitive framework that will produce an addition of code at the end of every iteration.
 
 3. The set of product backlog items selected for inclusion in the sprint.
 
-4. Defines what a Product Backlog item needs to have
-before it can go into the sprint backlog.
+4. Defines what a Product Backlog item needs to have before it can go into the sprint backlog.
 
-5. A time-boxed event in which development work takes 
-place.
+5. A time-boxed event in which development work takes place.
 
-6. Defines what is needed before it can be regarded as 
-complete.
+6. Defines what is needed before it can be regarded as complete.
 
 Items
 
