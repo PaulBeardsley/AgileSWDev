@@ -4,13 +4,11 @@ Definitions
 
 1. This is a daily 15-minute meeting used to optimise communication across the team.
 
-2. An opportunity for the scrum team to inspect itself and create a plan for improvements to be made 
-during the next sprint.
+2. An opportunity for the scrum team to inspect itself and create a plan for improvements to be made during the next sprint.
 
 3. This meeting is held at the beginning of the sprint. The meeting will usually take the full day for a two-week sprint.
 
-4. Held at the end of the sprint to inspect the work 
-done and adapt the product backlog.
+4. Held at the end of the sprint to inspect the work done and adapt the product backlog.
 
 Terms
 
