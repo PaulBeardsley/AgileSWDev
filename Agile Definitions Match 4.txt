@@ -12,8 +12,7 @@ Definitions
 
 5. Helps those outside the Scrum team understand which interactions are beneficial.
 
-6. The sole person responsible for managing the product backlog (i.e., the list of features to be 
-worked on).
+6. The sole person responsible for managing the product backlog (i.e., the list of features to be worked on).
 
 Roles
 
