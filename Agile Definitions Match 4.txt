@@ -1,0 +1,25 @@
+Please match the role to the definition.
+
+Definitions
+
+1. Manages projects and will overview expenses.
+
+2. A multi-disciplinary team usually consists of software architects, designers, programmers, and testers.
+
+3. Supports the Product Owner by gathering requirements and providing guidance on what to build.
+
+4. Anyone with an interest in or an influence on the product.
+
+5. Helps those outside the Scrum team understand which interactions are beneficial.
+
+6. The sole person responsible for managing the product backlog (i.e., the list of features to be 
+worked on).
+
+Roles
+
+a. Stakeholder
+b. Product Owner
+c. Project Manager
+d. Development Team
+e. Scrum Master
+f. Business Analyst
